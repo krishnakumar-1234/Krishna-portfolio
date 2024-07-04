@@ -38,7 +38,7 @@ export default function Page() {
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <Image
               className="rounded w-600 h-720 landingimage"
-              src="/krishnaAi.jpg"
+              src="/landing.avif"
               alt="Image of Krishna"
               width={600}
               height={720}
