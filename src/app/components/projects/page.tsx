@@ -41,7 +41,6 @@ export default function page() {
                         </div>
                         <div className="p-4 md:w-1/3">
                             <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
-                                {/* <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/721x401" alt="blog"> */}
                                 <img className='projectsImages p-3' src="https://github.com/krishnakumar-1234/withkrishna/blob/main/Dr.%20Norman%20Borlaug.pnf.png?raw=true" alt="projectsimage" />
                                 <div className="p-6">
                                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">HTML CSS</h2>
@@ -71,7 +70,6 @@ export default function page() {
                         </div>
                         <div className="p-4 md:w-1/3">
                             <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
-                                {/* <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/722x402" alt="blog"> */}
                                 <img className='projectsImages p-3' src="https://github.com/krishnakumar-1234/withkrishna/blob/main/City%20Skyline.png?raw=true" alt="projectsimage" />
                                 <div className="p-6">
                                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">HTML CSS</h2>
@@ -138,7 +136,6 @@ export default function page() {
                         </div>
                         <div className="p-4 md:w-1/3">
                             <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
-                                {/* <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/721x401" alt="blog"> */}
                                 <img className='projectsImages p-3' src="https://github.com/krishnakumar-1234/withkrishna/blob/main/Screenshot%202024-05-02%20at%203.09.31%20PM.png?raw=true" alt="projectsimage" />
                                 <div className="p-6">
                                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">Nextjs and Tailwinds</h2>
@@ -169,7 +166,6 @@ export default function page() {
                         </div>
                         <div className="p-4 md:w-1/3">
                             <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
-                                {/* <img className="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/722x402" alt="blog"> */}
                                 <img className='projectsImages p-3' src="https://github.com/krishnakumar-1234/withkrishna/blob/main/Screenshot%202024-05-02%20at%203.21.50%20PM.png?raw=true" alt="projectsimage" />
                                 <div className="p-6">
                                     <h2 className="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">HTML CSS JavaScript</h2>
