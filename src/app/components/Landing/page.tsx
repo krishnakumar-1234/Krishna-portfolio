@@ -39,9 +39,10 @@ export default function Page() {
             <Image
               className="rounded w-600 h-720 landingimage"
               src="/krishnaAi.jpg"
-              alt="Image from Unsplash"
+              alt="Image of Krishna"
               width={600}
               height={720}
+              priority
             />
           </div>
         </div>
