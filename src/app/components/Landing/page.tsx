@@ -9,11 +9,11 @@ export default function Page() {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-              Hello, I'm Krishna
+              Hello, I&apos;m Krishna
             </h1>
             <p className="mb-8 leading-10">
               From Village to Code - A Story of Gratitude, Perseverance, and
-              Self-Study. Hello everyone! 👋 I'm Krishna, a 16-year-old student
+              Self-Study. Hello everyone! 👋 I&apos;m Krishna, a 16-year-old student
               and self-taught web developer. Today, I want to share a crucial
               chapter in my journey — the incredible role my uncle played in not
               only bringing me to the city but also becoming my selfless mentor
